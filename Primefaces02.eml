@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" jdk="1.8 " jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="Mojarra-2.2.1" value="project"/>
+		<level name="PrimeFaces-5.2" value="project"/>
+		<level name="Spring-4.3.4.RELEASE" value="project"/>
+		<level name="Spring MVC-4.3.4.RELEASE" value="project"/>
+		<level name="Hibernate 5.2.3-5.2.3" value="project"/>
+		<level name="mysql:mysql-connector-java:5.1.40" value="project"/>
+	</levels>
+</component>

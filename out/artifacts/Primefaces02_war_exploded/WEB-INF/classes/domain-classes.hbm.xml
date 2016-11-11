@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping
+        PUBLIC "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.sang.Model.Employee"    table="employee">
+        <id name="empID" column="EMP_ID" type="long">
+        <generator  class="native"/>
+        </id>
+        <property name="empName"    column="EMP_NAME" type="string"/>
+        <property name="empHireDate" column="EMP_HIRE_DATE" type="date"/>
+        <property name="empSalary" column="EMP_SALARY" type="double"/>
+    </class>
+
+
+</hibernate-mapping>

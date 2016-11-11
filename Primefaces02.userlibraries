@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Hibernate 5.2.3-5.2.3">
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/jboss-logging-3.3.0.Final.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/jandex-2.0.0.Final.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/dom4j-1.6.1.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/antlr-2.7.7.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/classmate-1.3.0.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/cdi-api-1.1.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/javassist-3.20.0-GA.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/el-api-2.2.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/javax.inject-1.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/jsr250-api-1.0.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/hibernate-core-5.2.3.Final.jar" />
+  </library>
+  <library name="Mojarra-2.2.1">
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/jstl-1.1.0.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/javax.faces-2.2.1.jar" />
+  </library>
+  <library name="PrimeFaces-5.2">
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/primefaces-5.2.jar" />
+  </library>
+  <library name="Spring-4.3.4.RELEASE">
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-instrument-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-aspects-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-instrument-tomcat-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-context-support-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-aop-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-expression-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-jdbc-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-beans-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-oxm-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/commons-logging-1.2.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/aopalliance-1.0.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-tx-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-jms-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-core-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-context-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-test-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-messaging-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-orm-4.3.4.RELEASE.jar" />
+  </library>
+  <library name="Spring MVC-4.3.4.RELEASE">
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-websocket-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-webmvc-portlet-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-web-4.3.4.RELEASE.jar" />
+    <archive path="D:/Study/WorkSpace/Primefaces02/lib/spring-webmvc-4.3.4.RELEASE.jar" />
+  </library>
+  <library name="mysql:mysql-connector-java:5.1.40">
+    <archive path="C:/Users/Sang/.m2/repository/mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.jar" />
+  </library>
+</eclipse-userlibraries>
+
